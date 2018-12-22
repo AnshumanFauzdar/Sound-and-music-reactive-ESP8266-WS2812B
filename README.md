@@ -92,6 +92,8 @@ Boom! Enjoy the visualization and make your room sync to music, adjust the frequ
 
 ![Visualization](Images/visualization-gui.png)
 
+![Effect](Images/led-effect-demo.gif)
+
 # Project Credits:
 
 This is refined Version of ([@scottlawsonbc](https://github.com/scottlawsonbc/audio-reactive-led-strip)) and all schematics + Tutorial and all the errors and instructions covered
