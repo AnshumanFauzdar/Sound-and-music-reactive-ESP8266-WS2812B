@@ -35,9 +35,9 @@ The repository includes everything needed to build an LED strip music visualizer
 
 # Project Credits:
 
-This is refined Version of @scottlawsonbc (https://github.com/scottlawsonbc/audio-reactive-led-strip) and all schematics + Tutorial and all the errors and instructions covered
+This is refined Version of ([@scottlawsonbc](https://github.com/scottlawsonbc/audio-reactive-led-strip)) and all schematics + Tutorial and all the errors and instructions covered
 
-Arduino refined code is by @joeybab3 (https://github.com/joeybab3/audio-reactive-led-strip/blob/master/arduino/ws2812_controller/ws2812_controller.ino), @gorgitko (https://github.com/gorgitko/microboard-projects/tree/master/audio-reactive-led-strip)
+Arduino refined code is by ([@joeybab3](https://github.com/joeybab3/audio-reactive-led-strip/blob/master/arduino/ws2812_controller/ws2812_controller.ino)), ([@gorgitko](https://github.com/gorgitko/microboard-projects/tree/master/audio-reactive-led-strip))
  
  
  
