@@ -41,6 +41,14 @@ ESP8266 recieving signals:
 
 ![Block Diagram](Images/esp8266-block-diagram.png)
 
+## Configuring Arduino and Anaconda
+
+# Arduino IDE
+
+- Install latest Arduino IDE from "https://www.arduino.cc/en/main/software"
+  - Install all dependencies and libraries which include ESP8266 boards, ESP8266 libraries, FastLED, Neopixel Library, Neopixel BUS library
+  - 
+
 # Connections
 
 ESP8266 connection edit out pin output according to your requirement in ([ws2812_controller.ino](https://anshumanfauzdar.github.io/Sound-and-music-reactive-ESP8266-WS2812B/Arduino/ESP8266%20code/ws2812_controller.ino))
