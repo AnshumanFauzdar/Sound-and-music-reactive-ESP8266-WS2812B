@@ -59,8 +59,7 @@ ESP8266 recieving signals:
   - activate visualization-env
   - Now we have to install several dependicies to able to work:
     - conda install numpy scipy pyqtgraph
-    - pip install pyaudio
-    - 
+    - pip install pyaudio 
   
 
 # Connections
