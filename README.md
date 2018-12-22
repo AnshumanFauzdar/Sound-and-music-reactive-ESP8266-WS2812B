@@ -83,6 +83,15 @@ So, select stereo connection from sounds properties, and if it is not showing up
 
 ![Sound Selection2](Images/stereo-enable.png)
 
+# Finally Run the visualisation
+
+Once you have done all this and flashed code to ESP8266 without any error, then run the environment and go to directory where you have downloaded this repository 
+For ex- If you are in E drive and python folder is saved like this "E:\DATA\AURDINO PROJECTS\Music Reactive\audio-reactive-led-strip-master\python" then by "cd E:\DATA\AURDINO PROJECTS\Music Reactive\audio-reactive-led-strip-master\python\" change to this directory and then "python visualization"
+
+Boom! Enjoy the visualization and make your room sync to music, adjust the frequency slider according to your requirement!
+
+![Visualization](Images/visualization-gui.png)
+
 # Project Credits:
 
 This is refined Version of ([@scottlawsonbc](https://github.com/scottlawsonbc/audio-reactive-led-strip)) and all schematics + Tutorial and all the errors and instructions covered
