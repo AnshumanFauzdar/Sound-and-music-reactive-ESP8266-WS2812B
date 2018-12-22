@@ -41,6 +41,15 @@ ESP8266 recieving signals:
 
 ![Block Diagram](Images/esp8266-block-diagram.png)
 
+# Connections
+
+ESP8266 connection edit out pin output according to your requirement in ([ws2812_controller.ino](https://anshumanfauzdar.github.io/Sound-and-music-reactive-ESP8266-WS2812B/Arduino/ESP8266%20code/ws2812_controller.ino))
+
+![ESP8266](NodeMCUv3-small.png)
+
+Connection WS2812 with care is important as they are very sensitive to voltage change and you can easily burn them!
+
+![WS2812 Connection](breadboard-led-strip.jpg)
 
 
 
