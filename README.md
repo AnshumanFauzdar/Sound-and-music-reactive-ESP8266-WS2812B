@@ -19,7 +19,9 @@ Software Required:
 3. Working condition PC for all processing stuff with working sound card!
 
 Tools Required:
-Basic knowledge is reuired 
+-> Basic knowledge is required 
+
+Download this repository and save according to your ease of access
 
 # How things are working?
 
@@ -50,6 +52,7 @@ ESP8266 recieving signals:
   - Get all the libraries ready and flash your ESP8266 from board selection choice
   
 - If there is any error while flashing, look into the error and install the corresponding library!
+- Upload the code and verify that ESP8266 is connected to your Wifi or not
 
 # Anaconda
 
