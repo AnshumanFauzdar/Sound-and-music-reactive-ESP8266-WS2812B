@@ -33,6 +33,9 @@ The repository includes everything needed to build an LED strip music visualizer
   - Configuration and settings ([config.py](Python/config.py))
 - Arduino firmware/code for the ESP8266 ([ws2812_controller.ino](https://anshumanfauzdar.github.io/Sound-and-music-reactive-ESP8266-WS2812B/Arduino/ESP8266%20code/ws2812_controller.ino))
 
+So, music/sound is processed and hence signals are transferred to ESP8266
+![Signal Processing](images/description-cropped.gif)
+
 
 
 # Project Credits:
