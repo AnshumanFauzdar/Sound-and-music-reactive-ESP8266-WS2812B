@@ -53,6 +53,13 @@ Connection WS2812 with care is important as they are very sensitive to voltage c
 
 
 
+# Sound selection
+
+Stereo sound is preffered if you want to utilise music from your PC not from micrphone of PC
+
+So, select stereo connection from sounds properties, and if it is not showing up - right click and check for disabled devices, if still it doesnot show you can use third party software like "VoiceMeeter"
+![Sound Selection](Images/stereo-show.png)
+![Sound Selection2](Images/stereo-enable.png)
 
 # Project Credits:
 
