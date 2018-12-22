@@ -21,6 +21,18 @@ Software Required:
 Tools Required:
 Basic knowledge is reuired 
 
+# How things are working?
+
+The repository includes everything needed to build an LED strip music visualizer (excluding hardware):
+
+- Python visualization code, which includes code for:
+  - Recording audio with a microphone ([microphone.py](python/microphone.py))
+  - Digital signal processing ([dsp.py](python/dsp.py))
+  - Constructing 1D visualizations ([visualization.py](python/visualization.py))
+  - Sending pixel information to the ESP8266 over WiFi ([led.py](python/led.py))
+  - Configuration and settings ([config.py](python/config.py))
+- Arduino firmware for the ESP8266 ([ws2812_controller.ino](arduino/ws2812_controller/ws2812_controller.ino))
+
 # Project Credits:
 
 This is refined Version of @scottlawsonbc (https://github.com/scottlawsonbc/audio-reactive-led-strip) and all schematics + Tutorial and all the errors and instructions covered
