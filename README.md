@@ -47,7 +47,21 @@ ESP8266 recieving signals:
 
 - Install latest Arduino IDE from "https://www.arduino.cc/en/main/software"
   - Install all dependencies and libraries which include ESP8266 boards, ESP8266 libraries, FastLED, Neopixel Library, Neopixel BUS library
-  - 
+  - Get all the libraries ready and flash your ESP8266 from board selection choice
+  
+- If there is any error while flashing, look into the error and install the corresponding library!
+
+# Anaconda
+
+- Once you have installed anaconda we need to create the environment AKA the workstation through which this will work!
+  - You can create conda environment thorugh base(root) terminal or just by pressing "Create" button
+  - when you are creating through base(root) use "conda create --name visualization-env python=3.5"
+  - activate visualization-env
+  - Now we have to install several dependicies to able to work:
+    - conda install numpy scipy pyqtgraph
+    - pip install pyaudio
+    - 
+  
 
 # Connections
 
