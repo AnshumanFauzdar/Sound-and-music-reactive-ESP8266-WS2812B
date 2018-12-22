@@ -31,7 +31,7 @@ The repository includes everything needed to build an LED strip music visualizer
   - Constructing 1D visualizations ([visualization.py](Python/visualization.py))
   - Sending pixel information to the ESP8266 over WiFi ([led.py](Python/led.py))
   - Configuration and settings ([config.py](Python/config.py))
-- Arduino firmware for the ESP8266 ([ws2812_controller.ino](Arduino/esp8266_code/ws2812_controller.ino))
+- Arduino firmware for the ESP8266 ([ws2812_controller.ino](Arduino/ESP8266_code/ws2812_controller.ino))
 
 # Project Credits:
 
