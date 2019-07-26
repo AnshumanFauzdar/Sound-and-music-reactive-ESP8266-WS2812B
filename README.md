@@ -1,4 +1,5 @@
 [![](https://img.shields.io/github/stars/AnshumanFauzdar/Sound-and-music-reactive-ESP8266-WS2812B?style=plastic)]()
+[![](https://img.shields.io/github/watchers/AnshumanFauzdar/Sound-and-music-reactive-ESP8266-WS2812B?style=plastic)]()
 # Music Reactive WS2812 LED Strip via PC and raspberry with ESP8266
 
 Want to enjoy some music reactive without any hassling wiring and microphone like stuff along with arduino, then this will be perfect for you!
