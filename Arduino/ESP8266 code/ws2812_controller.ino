@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
-#include <WebSocketsServer.h>
 #include <Hash.h>
 #include <WiFiUdp.h>
 #include <NeoPixelBus.h>
@@ -22,7 +21,7 @@ unsigned int localPort = 7777;
 char packetBuffer[BUFFER_LEN];
 
 // LED strip
-NeoPixelBus<NeoGrbFeature, NeoEsp8266Uart800KbpsMethod> ledstrip(NUM_LEDS);
+NeoPixelBus<NeoGrbFeature, NeoEsp8266Uart1800KbpsMethod> ledstrip(NUM_LEDS);
 
 WiFiUDP port;
 
