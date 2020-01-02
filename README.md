@@ -110,7 +110,7 @@ Arduino refined code is by ([@joeybab3](https://github.com/joeybab3/audio-reacti
  Themed Version is available at "https://anshumanfauzdar.github.io/Sound-and-music-reactive-ESP8266-WS2812B/"
  
  # Current Status:
- I have moved my LED strips to TV frame and using ![WLED](https://github.com/Aircoookie/WLED) for daily use and ![LEDFX](https://github.com/ahodges9/LedFx) for music reactive purpose and it works great, but if you want to use more cool effects and dedicated to music reactive then use this project and do share with others!
+ I have moved my LED strips to TV frame and using [WLED](https://github.com/Aircoookie/WLED) for daily use and [LEDFX](https://github.com/ahodges9/LedFx) for music reactive purpose and it works great, but if you want to use more cool effects and dedicated to music reactive then use this project and do share with others!
  
  
  
