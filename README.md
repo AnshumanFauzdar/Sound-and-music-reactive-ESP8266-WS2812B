@@ -1,3 +1,5 @@
+# This repo is not maintained anymore and if you are interested in music reactive WS2812 checkout this amazing project [LEDFX](https://github.com/LedFx/LedFx) fully compatible with [WLED](https://github.com/Aircoookie/WLED)
+
 ![](https://img.shields.io/github/downloads/AnshumanFauzdar/Sound-and-music-reactive-ESP8266-WS2812B/total)
 ![](https://img.shields.io/github/stars/AnshumanFauzdar/Sound-and-music-reactive-ESP8266-WS2812B?style=plastic)
 ![](https://img.shields.io/github/watchers/AnshumanFauzdar/Sound-and-music-reactive-ESP8266-WS2812B?style=plastic)
